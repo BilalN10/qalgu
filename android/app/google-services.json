@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "341263991463",
+    "project_id": "qalgu-f6bb0",
+    "storage_bucket": "qalgu-f6bb0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:341263991463:android:da57ca220bb421d7725182",
+        "android_client_info": {
+          "package_name": "com.qalgu.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDaxESSe9iCpTofhMlLSD4u0zVNYX6dOOU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
